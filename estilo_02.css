@@ -1,0 +1,66 @@
+ 
+        div{
+            display: inline-block;
+            margin: 50px;
+        }
+        
+        Body{
+            text-align: center;
+            Align-items: center;
+            Margin: auto;
+            background-color: #fafafa;
+        
+        }  
+        
+        ul{
+            display: inline-block;
+            text-align: center;
+        
+        }
+
+        li{
+            font-family: "Gotham", "Book";
+            font-size: 15px;
+            line-height: 20px;
+            text-align: left;
+            color: #444444;
+        }
+        
+        h4{
+            font-family: "Gotham", "Book";
+            font-size:35px;
+            text-align:center;
+            line-height:1px;
+            color:#01a0c7;
+            
+        }
+        
+        p{
+            display: block;
+            font-family: "Gotham", "Book";
+            font-size: 15px;
+            text-align: center;
+            line-height:20px;
+            color: #444444; 
+        }
+        
+        img{
+            display: inline-block;
+            width: 800px;
+        }
+        
+        button {
+            font-family: "Gotham" , "Bold";
+            border: #be9a17;
+            padding: 10px;
+            background-color:#fec901;
+        
+        }
+
+        footer{
+            Font-family: "Gotham", "Book";
+            Background-color: #1aacd1;
+            Text-align: center;
+            padding: 20px 0px 20px 0px;
+        }
+            
